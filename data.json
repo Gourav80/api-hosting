@@ -1,0 +1,26 @@
+[
+    {
+        "user": "Shrinath",
+        "rollNo": 70,
+        "batch":"Third",
+        "collegeName": "GHRCEM"
+    },
+    {
+        "user": "Kartik",
+        "rollNo": 71,
+        "batch":"Third",
+        "collegeName": "GHRCEM"
+    },
+    {
+        "user": "Gourav",
+        "rollNo": 69,
+        "batch":"Third",
+        "collegeName": "GHRCEM"
+    },
+    {
+        "user": "Aniket",
+        "rollNo": 67,
+        "batch":"Third",
+        "collegeName": "GHRCEM"
+    }
+]
